@@ -1,4 +1,5 @@
-user do login
-user choose meal
-user order meal
-user get notification 
+user bisa login
+sistem menampilkan menu makanan untuk hari besoknya (H+1)
+user pilih makanan
+user order makanan
+user dapat notifikasi
