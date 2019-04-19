@@ -1,0 +1,67 @@
+{
+  "Pemesan" : {
+    "-LcnjC1Gwnw2LRSnAnSc" : {
+      "alamat" : "Jalan Tegal Rotan 19",
+      "email" : "steve@gmail.com",
+      "handphone" : "0812321123",
+      "jumlah" : "2",
+      "nama" : "steve",
+      "paketid" : "1",
+      "tanggal" : "19-4-2019",
+      "uid" : ""
+    },
+    "-LcnjDUZZ1Qfoqw6Mzzt" : {
+      "alamat" : "Jalan Duren Kalibata",
+      "email" : "steve@gmail.com",
+      "handphone" : "0878654321",
+      "jumlah" : "2",
+      "nama" : "Juanita",
+      "paketid" : "1",
+      "tanggal" : "19-4-2019",
+      "uid" : ""
+    },
+    "-LcoB0ef1NPC3j2CBGHi" : {
+      "alamat" : "Share via WA",
+      "email" : "steve@gmail.com",
+      "handphone" : "0812392121",
+      "jumlah" : "1",
+      "nama" : "Rinald",
+      "paketid" : "1",
+      "tanggal" : "19-4-2019",
+      "uid" : ""
+    },
+    "-LcoDvC310kWFoV6xXzP" : {
+      "alamat" : "Alamat/share via WA",
+      "email" : "steve@gmail.com",
+      "handphone" : "08786543212",
+      "jumlah" : "2",
+      "nama" : "Roni",
+      "paketid" : "1",
+      "tanggal" : "19-4-2019",
+      "uid" : ""
+    },
+    "-LcoXXxWoSjozDB6XQSW" : {
+      "alamat" : "Alamat/share via WA",
+      "email" : "steve@gmail.com",
+      "handphone" : "08127456174",
+      "jumlah" : "2",
+      "nama" : "sianturi",
+      "paketid" : "2",
+      "tanggal" : "19-4-2019",
+      "uid" : ""
+    }
+  },
+  "Pengguna" : {
+    "0875456890" : {
+      "email" : "joel@gmail.com",
+      "name" : "Joel P.",
+      "password" : "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tanggal" : "17-4-2019"
+    },
+    "08758907908" : {
+      "email" : "steve@gmail.com",
+      "name" : "steve",
+      "password" : "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}
